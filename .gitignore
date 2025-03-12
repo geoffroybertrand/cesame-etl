@@ -1,7 +1,7 @@
 v-env
 .env
 !.env.example
-
+**/uploaded_files/
 node_modules
 __pycache__
 v-env
